@@ -1,0 +1,923 @@
+# depslib dependency file v1.0
+1245071236 source:d:\travail\ifips_optronique\ci1a_apprentissage\projet_cooperatif\tp\tp_introduction_opengl\projet_codeblocks_fonctionnel\tp_opengl_glut\premier_prog.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1066740114 d:\travail\ifips_optronique\ci1a_apprentissage\projet_cooperatif\tp\tp_introduction_opengl\projet_codeblocks_fonctionnel\tp_opengl_glut\include\gl\glut.h
+	"freeglut_std.h"
+
+1260916660 d:\travail\ifips_optronique\ci1a_apprentissage\projet_cooperatif\tp\tp_introduction_opengl\projet_codeblocks_fonctionnel\tp_opengl_glut\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1245071236 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\premier_prog.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1066740114 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\glut.h
+	"freeglut_std.h"
+
+1260916660 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\laser.cpp
+	"Laser.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\laser.h
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\point.cpp
+	"Point.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\point.h
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\quai.cpp
+	"Quai.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\quai.h
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\rampe.cpp
+	"Rampe.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\rampe.h
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\train.cpp
+	"Train.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\train.h
+
+1371656129 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\vector.cpp
+	"Vector.h"
+
+1371656129 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\vector.h
+	"Point.h"
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\premier_prog.cpp
+	<stdlib.h>
+	<GL/glut.h>
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\glut.h
+	"freeglut_std.h"
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\laser.cpp
+	"Laser.h"
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\laser.h
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\point.cpp
+	"Point.h"
+
+1371740261 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\point.h
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\quai.cpp
+	"Quai.h"
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\quai.h
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\rampe.cpp
+	"Rampe.h"
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\rampe.h
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\train.cpp
+	"Train.h"
+
+1371736320 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\train.h
+
+1371736321 source:c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\vector.cpp
+	"Vector.h"
+
+1371740261 c:\polytech2015work\code source\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\vector.h
+	"Point.h"
+
+1371991426 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\premier_prog.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1066740114 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\glut.h
+	"freeglut_std.h"
+
+1260916660 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\point.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Point.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\point.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\vector.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Vector.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\vector.h
+	"Point.h"
+
+1371814755 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\laser.cpp
+	"Laser.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\laser.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\porte.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Porte.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\porte.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\quai.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Quai.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\quai.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\rampe.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Rampe.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\rampe.h
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\train.h
+
+1371998222 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\scene.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<SDL/SDL.h>
+	"Scene.h"
+
+1371998078 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\scene.h
+
+1371818351 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\train.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Train.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_platform.h
+
+1326114594 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\begin_code.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\close_code.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_keysym.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1371990989 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\init.h
+
+1371992552 source:c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\src\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371991665 c:\users\amirault\documents\pps - orsay\polytech2015work\amirault\tp_opengl_glut_projet_codeblocks\tp_opengl_glut\include\configuration.h
+
+1371991426 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\premier_prog.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1371990989 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\init.h
+
+1372018616 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\scene.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_platform.h
+
+1326114594 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\begin_code.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\close_code.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_keysym.h
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1371992552 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1371991665 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\configuration.h
+
+1371814755 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\laser.cpp
+	"Laser.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\laser.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\point.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Point.h"
+
+1066740114 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\gl\glut.h
+	"freeglut_std.h"
+
+1260916660 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\point.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\porte.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Porte.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\porte.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\quai.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Quai.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\quai.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\rampe.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Rampe.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\rampe.h
+
+1372019019 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\scene.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<SDL/SDL.h>
+	"Scene.h"
+
+1371818351 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\train.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Train.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\train.h
+
+1371818137 source:c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\src\vector.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"Vector.h"
+
+1371814754 c:\users\amirault\documents\pps - orsay\polytech2015work\code source\gestion event\include\vector.h
+	"Point.h"
+
+1372078376 source:c:\polytech2015work\code source\gestion event\premier_prog.cpp
+	"init.h"
+	"scene.h"
+	<SDL/SDL.h>
+
+1372078376 c:\polytech2015work\code source\gestion event\include\init.h
+
+1372164968 c:\polytech2015work\code source\gestion event\include\scene.h
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<SDL/SDL.h>
+	"Train.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1372078376 c:\polytech2015work\code source\gestion event\include\sdl\sdl_platform.h
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\begin_code.h
+
+1372078376 c:\polytech2015work\code source\gestion event\include\sdl\close_code.h
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1372078376 c:\polytech2015work\code source\gestion event\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_keysym.h
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372078378 source:c:\polytech2015work\code source\gestion event\src\init.cpp
+	"init.h"
+	"configuration.h"
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1372078376 c:\polytech2015work\code source\gestion event\include\configuration.h
+
+1371822569 source:c:\polytech2015work\code source\gestion event\src\laser.cpp
+	"Laser.h"
+
+1371822664 c:\polytech2015work\code source\gestion event\include\laser.h
+
+1372164500 source:c:\polytech2015work\code source\gestion event\src\point.cpp
+	"Point.h"
+
+1372078377 c:\polytech2015work\code source\gestion event\include\gl\glut.h
+	"freeglut_std.h"
+
+1372078378 c:\polytech2015work\code source\gestion event\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1372164192 c:\polytech2015work\code source\gestion event\include\point.h
+
+1371740946 source:c:\polytech2015work\code source\gestion event\src\porte.cpp
+	"Porte.h"
+
+1371822808 c:\polytech2015work\code source\gestion event\include\porte.h
+
+1371822569 source:c:\polytech2015work\code source\gestion event\src\quai.cpp
+	"Quai.h"
+
+1371821158 c:\polytech2015work\code source\gestion event\include\quai.h
+
+1371740946 source:c:\polytech2015work\code source\gestion event\src\rampe.cpp
+	"Rampe.h"
+
+1371826477 c:\polytech2015work\code source\gestion event\include\rampe.h
+
+1372165107 source:c:\polytech2015work\code source\gestion event\src\scene.cpp
+	"Scene.h"
+
+1372165158 source:c:\polytech2015work\code source\gestion event\src\train.cpp
+	"Train.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<SDL/SDL.h>
+
+1372164785 c:\polytech2015work\code source\gestion event\include\train.h
+	"Laser.h"
+	"Porte.h"
+	"Rampe.h"
+	"Point.h"
+
+1371736321 source:c:\polytech2015work\code source\gestion event\src\vector.cpp
+	"Vector.h"
+
+1371740261 c:\polytech2015work\code source\gestion event\include\vector.h
+	"Point.h"
+
+1371822501 source:c:\polytech2015work\code source\gestion event\src\faisceaulaser.cpp
+	"faisceauLaser.h"
+
+1371822569 c:\polytech2015work\code source\gestion event\include\faisceaulaser.h
+
